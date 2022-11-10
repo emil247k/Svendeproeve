@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { positionElements } from './positioning';","map":{"version":3,"names":["positionElements"],"sources":["E:/Svendeproeve/solution/Calendar/ClientApp/node_modules/positioning/dist/entry.js"],"sourcesContent":["export { positionElements } from './positioning';\n"],"mappings":"AAAA,SAASA,gBAAT,QAAiC,eAAjC"},"metadata":{},"sourceType":"module"}
